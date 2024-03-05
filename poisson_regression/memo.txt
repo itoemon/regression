@@ -1,0 +1,4 @@
+$conda activate logistic_regression
+$python poisson_regression.python
+
+data/sample_data.csv に学習データを格納
